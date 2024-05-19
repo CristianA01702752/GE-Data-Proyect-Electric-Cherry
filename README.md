@@ -10,9 +10,7 @@ Este repositorio alberga la documentación y los scripts de código generados po
 Nuestro proyecto tiene como objetivo la generación de un modelo para identificación del modo conocido como "Stable Cruise" mediante el uso de diversas herramientas tecnológicas, como Python, y metodologías como CRISP-DM (Cross-Industry Standard Process for Data Mining).
 
 ## 📘 Contenido del repositorio
-Al momento de redacción de esta versión del readme (3 de noviembre de 2023), el contenido se encuentra ubicado en la rama 'develop', siguiendo el método de trabajo establecido por el equipo.
-
-Dentro de esta rama, encontrarás carpetas organizadas según las fases de la metodología CRISP-DM, que son las siguientes:
+Dentro de esta rama(main), encontrarás carpetas organizadas según las fases de la metodología CRISP-DM, que son las siguientes:
 * Business Understanding
 * Data Understanding
 * Data Preparation
